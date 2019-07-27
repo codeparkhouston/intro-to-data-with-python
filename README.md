@@ -1,4 +1,11 @@
-Workshop material for beginner pandas user.
+Launch this notebook using this button:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codeparkhouston/intro-to-data-with-python/master)
+
+
+# Welcome!
+
+This repo contains workshop materials for a beginner pandas user.  We are going through this in an interactive workshop format.  Please feel free to explore!  Whether you're jumping ahead or staying at some sections for longer, no worries - we're here to help.
 
 # Outline
 
