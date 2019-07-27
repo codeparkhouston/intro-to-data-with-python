@@ -1,0 +1,3 @@
+this is for a demonstration purpose.
+all characters are in lowercase.
+your job is to change these to uppercase and write to a file.
