@@ -1,5 +1,11 @@
+__pycache__/
+.idea/
+log.*
+log
+.pytest_cache/
 .DS_Store
-.ipynb_checkpoints/
-data/
-extras/
-notebooks/
+*.swp
+.cache/
+.ipynb_checkpoints
+.vscode/
+tmp/
